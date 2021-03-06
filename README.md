@@ -1,6 +1,5 @@
 <h1 align="center">Welcome <b>Jagoan</b></h1>
 <h1 align="center">Zett disini</h1>
-<h3 align="center">Welcome jagoan</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmin-dev&show_icons=true&locale=en&layout=compact" alt="asmin-dev" /></p>
 

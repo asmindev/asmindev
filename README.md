@@ -1,9 +1,9 @@
 <h1 align="center">Welcome <b>Jagoan</b> <a href="https://instagram.com/iniasmin_" target="_blank">Asmin</a> here</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmin-dev&show_icons=true&locale=en&layout=compact" alt="asmin-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmindev&show_icons=true&locale=en&layout=compact" alt="asmin-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmin-dev&show_icons=true&locale=en" alt="asmin-dev" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asmin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asmin-dev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asmindev&label=Profile%20views&color=0e75b6&style=flat" alt="asmin-dev" /> </p>
 
 
 

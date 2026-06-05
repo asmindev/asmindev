@@ -2,9 +2,7 @@
 
 # Asmin
 
-Developer, Builder, Problem Solver.
-
-I build software products, automation systems, and business applications.
+Building software, automation, and systems that solve real business problems.
 
 Currently exploring ERP, AI, and developer tooling.
 
@@ -12,17 +10,16 @@ Currently exploring ERP, AI, and developer tooling.
 
 ---
 
-### Building
+### Focus
 
-* ERP Platforms
-* SaaS Products
-* Automation Tools
-* API Services
+ERP · Automation · APIs · SaaS · Backend Systems
 
-### Tech
+### Stack
 
-Python · Laravel · React · PostgreSQL · Docker
+Python · Laravel · React · PostgreSQL · Docker · Linux
 
 ### Philosophy
 
-Ship. Learn. Improve. Repeat.
+> Simplicity scales.
+>
+> Ship. Learn. Improve. Repeat.

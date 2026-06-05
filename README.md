@@ -14,9 +14,21 @@ Currently tinkering with ERP, automation & APIs.
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=asmindev&layout=compact&theme=dark&bg_color=0d1117&title_color=C9A96E&text_color=c9d1d9&hide_border=true)](https://github.com/asmindev)
-&nbsp;
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmindev&show_icons=true&theme=dark&bg_color=0d1117&title_color=C9A96E&text_color=c9d1d9&icon_color=C9A96E&hide_border=true)](https://github.com/asmindev)
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,docker,linux,git,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=asmindev&theme=darkhub&no-bg=true&no-frame=true&margin-w=6&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=asmindev&theme=dark&background=0d1117&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
